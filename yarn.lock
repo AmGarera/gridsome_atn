@@ -622,10 +622,10 @@
     semver "^5.6.0"
     sort-package-json "^1.15.0"
 
-"@gridsome/source-wordpress@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@gridsome/source-wordpress/-/source-wordpress-0.0.3.tgz#c0f2d201979ff29aac607b689108b128997d5f31"
-  integrity sha512-9QTaDmskaxXABzyqupFAf85SR3/iNOy/JN+1vYwWJo0fTBYmAjHd4Kl9wwNNYlXT1qjZRTrRsL67wqOnV+QrAg==
+"@gridsome/source-wordpress@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@gridsome/source-wordpress/-/source-wordpress-0.0.4.tgz#d6fa0658dc0bc31f1e61ae71d982a841e3a4b460"
+  integrity sha512-eiEfojo+L6f7ZxcMHrTKq+4tJ8kQYpSfthkd0/afsOOt4pEHFwMGK6FrMgk4E2+/8yk9n1QT7R45p++ndy8uRA==
   dependencies:
     axios "^0.18.0"
     better-queue "^3.8.7"
@@ -3647,10 +3647,10 @@ graphql@^0.13.2:
   dependencies:
     iterall "^1.2.1"
 
-gridsome@^0.2.0:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.2.3.tgz#10b480a4e95458a27a96694a91a435a941beab25"
-  integrity sha512-KB7/5XdQ0EwL+gP+KOe9DKiGXtOtqBmENOWWBQGgkzqqoHFh7tqwu6GGd0Je0VUypSexUciJKCT9omJyANs/ow==
+gridsome@^0.2.4:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.2.5.tgz#09f6c653dc897119199e6224510f8902e6540eba"
+  integrity sha512-Vt5SDbtWGZUetGk4nYtupULwjcej8nR3a/dgKgPD7TJ2yWNOxlHYigmcpP6VgqAtZZydMx/b1F6BRSkq0svf5A==
   dependencies:
     "@babel/core" "^7.0.0"
     "@babel/plugin-syntax-dynamic-import" "^7.0.0"
@@ -3674,6 +3674,7 @@ gridsome@^0.2.0:
     chokidar "^2.0.4"
     connect-history-api-fallback "^1.5.0"
     css-loader "^1.0.0"
+    dateformat "^3.0.3"
     express "^4.16.3"
     express-graphql "^0.6.12"
     file-loader "^1.1.11"
@@ -4945,9 +4946,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.10, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.17.5:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 log-update@^2.3.0:
   version "2.3.0"
